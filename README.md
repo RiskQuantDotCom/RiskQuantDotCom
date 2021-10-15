@@ -8,7 +8,7 @@
 
 - On Twitter we're <b>@RiskQuantDotCom</b> and <b>@CyberRiskQuant</b>
 
-Copyright © 2021 by RiskQuant Pty Ltd in Melbourne, Victoria, Australia.
+Copyright © 2021 by RiskQuant Pty Ltd in Melbourne, Victoria, Australia. All rights reserved.
 
 <!---
 RiskQuantDotCom/RiskQuantDotCom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
